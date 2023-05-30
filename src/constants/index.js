@@ -1037,7 +1037,7 @@ export const extraCurricular = [
     duration: " 18th FEb 2023",
     content: [
       {
-        text: "Oranize the Tech Event in college With collebration of GDG Chandigarh and D4 Community",
+        text: "Organized the Tech Event in college With the collaboration of GDG Chandigarh and D4 Community",
         link: "",
       },
       {
@@ -1049,11 +1049,11 @@ export const extraCurricular = [
   },
   {
     organisation: "D4 Community",
-    title: "Founder",
+    title: "Co-Founder",
     duration: "Sep 2022 - Present",
     content: [
       {
-        text: "Founder of a Student Driven Community, CGCJ",
+        text: "co-Founder of a Student Driven Community, at CGCJ",
         link: "https://github.com/d4community",
       },
     ],
