@@ -1,8 +1,6 @@
 <h1 align="center"> Personal Portfolio </h1>
 
 ### Deployed link: https://itsayu.netlify.app/
-flow](https://github.com/mittal-parth/personal-portfolio/blob/main/readme.md#sample-git-workflow)
-7. [References & 
 
    <br>
 
