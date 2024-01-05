@@ -129,7 +129,7 @@ export const educationList = [
     title: "Chandigarh Group of Colleges, Jhanjeri",
     degree: "Bachelor of Technology",
     duration: "Sep 2020 - Jun 2024",
-    content1: "Major: Computer Science and Engineering",
+    content1: "Major: Computer Science and Engineering"
   },
 ];
 
