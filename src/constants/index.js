@@ -330,24 +330,6 @@ export const experiences = [
     ],
   },
 
-  {
-    organisation: "Gravity Infinity",
-    logo: gravity,
-    link: "https://grivityinfinity.com/",
-    positions: [
-      {
-        title: "Web Developer",
-        duration: "Aug 2023 - Currently",
-        content: [
-          {
-            text: "Working as a Web Developer.",
-            link: "",
-          },
-        ],
-      },
-      
-    ],
-  },
 ];
 
 
