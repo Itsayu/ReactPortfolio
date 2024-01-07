@@ -27,6 +27,7 @@ import {
   cc,
   jd,
   zymo,
+  gravity,
   hotstar,
   youtube,
   w,
@@ -322,6 +323,25 @@ export const experiences = [
         content: [
           {
             text: "I have been tasked with developing websites for a company that specializes in renting out four-wheelers. The websites will be built using ReactJS, a popular JavaScript library for building user interfaces.",
+            link: "",
+          },
+        ],
+      },
+      
+    ],
+  },
+
+   {
+    organisation: "Gravity Infinity",
+    logo: gravity,
+    link: "",
+    positions: [
+      {
+        title: "Web Developer",
+        duration: "Aug 2023 - Currently",
+        content: [
+          {
+            text: "Working as a Web Developer.",
             link: "",
           },
         ],
